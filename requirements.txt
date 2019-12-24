@@ -1,0 +1,6 @@
+matplotlib
+pandas
+numpy
+lets-plot
+sklearn
+numba
