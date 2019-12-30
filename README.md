@@ -43,3 +43,9 @@ Repository contains the set of examples of graphs built with lets-plot library.
 </a>
 
 ![Torus](https://github.com/denisvstepanov/lets-plot-examples/blob/master/pics/Torus.png)
+
+
+### License
+
+Code and documentation released under the [MIT license](https://github.com/JetBrains/lets-plot/blob/master/LICENSE).
+Copyright 2019, Denis Stepanov
